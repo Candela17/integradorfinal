@@ -1,0 +1,103 @@
+body{
+    padding: 20px;
+}
+
+
+#tam{                                     /*modificacion de tamaños de img*/
+    width: 100%;
+    height: 300px;
+}
+.primero{                                       /*aregue color al titulo*/
+    background-color: rgb(247, 88, 88);
+    text-align: center;
+}
+.titulo{                                    /*alinie titulo*/
+    text-align: center;
+    color: rgb(245, 126, 126);
+}
+.hola{                                 /*alinie titulo*/
+    text-align: center;
+    color: rgb(245, 92, 92);
+
+}
+
+.caja1{                           /*aca hay cajas de fases*/
+    color: black;
+    background-color: red;
+    width: 390px;
+    height: 300px;
+    overflow: scroll;
+    
+}
+.caja2{
+    color: black;
+    background-color: red;
+    width: 390px;
+    height:300px ;
+    overflow: scroll;
+    
+}
+.caja3{
+    color: black;
+    background-color:red;
+    width: 390px;
+    height: 300px;
+    overflow: scroll;
+}
+.caja4{
+    color: black;
+    background-color: red;
+    width: 390px;
+    height: 300px;
+    overflow: scroll;
+}
+.derecha{
+    border-color: black ;
+    border: 2px;
+    width: 50%;
+    float: right;
+
+}
+
+.izquierda{
+
+    border: 2px;
+    width: 50%;
+    float: left;
+    }
+    .ref{                                     /*modifique titulo*/
+        text-align: center;
+        background-color: red;
+    }
+    #medio{
+        height: 200px;
+        width: 300px;
+    }
+    .accordion{                               
+        --bs-accordion-btn-bg:#df2e2e;
+    }
+    .roji{                                       /*le agregue color al titulo*/
+        background-color: #df2e2e;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #rojito{
+        background-color: #eb5656;
+    }
+    #footer{                                 /*le aregue color al footer*/
+        background-color: #df2e2e;
+    }
+    .COLORFONDO{
+        background-color: #eb5656;
+    }
+    .medi{                                   /*modifique tamaño de img*/
+        width: 80px;
+        height: 500px;
+    }
+    .medit{                                 /*modifique tamaño de img*/
+        width: 80px;
+        height:500px ;
+    }
+    .colort{
+        background-color: #df2e2e;
+        text-align: center;
+    }
